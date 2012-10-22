@@ -1,10 +1,4 @@
-//
 //  AlertView.m
-//  SPBoilerplate
-//
-//  Created by Local Dev User on 17/10/12.
-//  Copyright (c) 2012 Speedwell. All rights reserved.
-//
 
 #import "TSAlertView.h"
 
